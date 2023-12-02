@@ -1,7 +1,7 @@
 {
   "name": "fansoaezra",
   "version": "0.1.0",
-  "homepage": "https://fansoadev.github.io/fansoaezra/",
+  "homepage": "https://fansoadev.github.io/integrations/",
   "private": true,
   "dependencies": {
     "@tailwindcss/postcss7-compat": "^2.2.17",
